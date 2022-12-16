@@ -12,7 +12,7 @@ My current focus is on interaction design, user testing, and technical aspects o
 
 ### Filmer
 An application that gives you an endless list of recommendations for movies you might like based on your preferences, and allows you to maintain a watchlist. 
-This project was mostly focused on technical challenges, creating a full-stack application with a frontend (application, login screen, etc) using React, backend (algorithm) using C#, and SQL database using Entity Framework Core, with a focus on maintainability, security, and performance.
+This project was mostly focused on technical challenges, creating a full-stack application with a frontend (application, login screen, etc) using React, backend (algorithm) using C#, and SQL database using Entity Framework Core, with a focus on maintainability, security, and performance. It's a project I'm quite happy with - although it's not much to look at visually, it is a complete full-stack app that I created on my own, which was a very valuable learning experience.
 
 ![Recommendation Screen](https://user-images.githubusercontent.com/9715331/208179273-dacdc89a-5de0-47c6-820c-0689f4891b52.png)
 ![Watchlist Functionality](https://user-images.githubusercontent.com/9715331/208179304-a00ec264-23ef-402a-ba92-9ae9110b4738.png)
@@ -42,7 +42,7 @@ While the project isn’t intended to be taken seriously, and the stylistic choi
 ## Personal
 
 ### Comic Book Covers
-Because I’m still very much a beginning artist, I started a project where I create the cover of an issue of a fictional comic book series every week. My main intent with the project was to challenge myself to experiment with different artstyles, practice with composition, as well as story-telling and conveying information on a limited canvas.
+Because I’m still very much a beginning artist, I started a project where I create the cover of an issue of a fictional comic book series every week. My main intent with the project was to challenge myself to experiment with different artstyles, practice with composition, as well as story-telling and conveying information on a limited canvas. It's a very engaging way to challenge myself to become a better artist.
 
 ![Issue 1](https://user-images.githubusercontent.com/9715331/208179149-33407702-71d9-44e8-a53a-bef9997cd1f0.png)
 
